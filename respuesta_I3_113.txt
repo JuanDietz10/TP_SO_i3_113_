@@ -1,0 +1,17 @@
+Respuesta_I3_113
+
+Integrantes:
+Villarreal Karen
+Logiudice Ignacio
+Dietz Juan
+
+Responde BETA:
+a-¿Como queda El master después de estos cambios?
+ La rama principal queda con los últimos cambios echos actualizados en la Rama Dietz, y el archivo de respuestas.
+b-¿Beta pudo ver todos los cambios que se realizaron?
+ Si.
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+ git checkout main // Voy a la rama principal.
+ git merge Villarreal // Fusiono la rama "Villarreal" con la que estoy parado, la principal.
+ git push // Ya se puede subir a la rama principal.
+

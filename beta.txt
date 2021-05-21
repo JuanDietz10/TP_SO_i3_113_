@@ -42,4 +42,25 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX packets 693  bytes 73370 (73.3 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-12:30:13
+Logiudice Ignacio, Hora 12:44
+
+enp5s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.79  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::95a5:825a:2257:372d  prefixlen 64  scopeid 0x20<link>
+        inet6 2800:810:54d:56d:d043:ee33:affc:919b  prefixlen 64  scopeid 0x0<global>
+        inet6 2800:810:54d:56d:48fe:3546:5ceb:6b2d  prefixlen 64  scopeid 0x0<global>
+        ether 24:4b:fe:c9:f1:56  txqueuelen 1000  (Ethernet)
+        RX packets 2105607  bytes 745633143 (745.6 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 135373  bytes 20730820 (20.7 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 13986  bytes 1348979 (1.3 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 13986  bytes 1348979 (1.3 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+

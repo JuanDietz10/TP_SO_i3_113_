@@ -33,3 +33,13 @@ git status
 git add .
 git commit -m "Gamma - Punto 7 - Modificado beta.txt"
 git push origin Dietz 	// Se suben los cambios a la rama de BETA
+
+g-¿que debió hacer (todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+git fetch
+git checkout Dietz
+echo Logiudice Ignacio, Hora 12:44hs >> beta.txt
+ifconfig >> beta.txt
+git add .
+git commit -m ""
+git push
